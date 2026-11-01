@@ -15,7 +15,7 @@
       <p>Proven ability to translate complex data into clear visual stories that help business owners make informed, strategic decisions.</p>
     </td>
     <td width="40%" align="center">
-      <img  width="800" height="600" alt="download (13)" src="https://github.com/user-attachments/assets/aaab3ffe-660d-46f3-862c-390f44b0a338"  />
+      <img  width="350" height="250" alt="download (13)" src="https://github.com/user-attachments/assets/aaab3ffe-660d-46f3-862c-390f44b0a338"  />
     </td>
   </tr>
 </table>
