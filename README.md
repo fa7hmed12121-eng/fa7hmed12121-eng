@@ -24,21 +24,21 @@
 
   <h3>🤝 Connect</h3>
   <p>
-    <a href="https://github.com/YOUR_USERNAME">
+    <a href="https://github.com/fa7hmed12121-eng">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
     </a>
     <a href="https://linkedin.com/in/YOUR_USERNAME">
       <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" />
     </a>
-    <a href="mailto:your.email@gmail.com">
+    <a href="fa7hmed12121@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" />
     </a>
   </p>
 
   <h3>💻 Tech Stack</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,git,github,vscode,html,css,c,aws" /><br />
-    <img src="https://skillicons.dev/icons?i=dotnet,tensorflow,pytorch,scikitlearn,gcp" />
+    <img  src="https://skillicons.dev/icons?i=python,pandas,excel,tableau,postgres,mysql,git,github,vscode,aws" /><br />
+   
   </p>
 
 </div>
