@@ -37,8 +37,13 @@
 
   <h3>💻 Tech Stack</h3>
   <p>
-    <img  src="https://skillicons.dev/icons?i=python,pandas,excel,tableau,postgres,mysql,git,github,vscode,aws" /><br />
+    <img  src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,vscode,aws" /><br />
    
+  </p>
+<p>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   </p>
 
 </div>
