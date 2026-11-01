@@ -16,7 +16,7 @@
       <p>My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.</p>
     </td>
     <td width="40%" align="center">
-      <img src="<img width="248" height="280" alt="Nope!" src="https://github.com/user-attachments/assets/2661a201-7e4e-450b-b872-5e8a5e18769f" />" alt="Pixel Astronaut" width="280"/>
+      <img  width="800" height="600" alt="download (13)" src="https://github.com/user-attachments/assets/aaab3ffe-660d-46f3-862c-390f44b0a338"  />
     </td>
   </tr>
 </table>
