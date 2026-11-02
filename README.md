@@ -38,6 +38,7 @@
   <h3>💻 Tech Stack</h3>
   <p>
     <img  src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,vscode,aws" /><br />
+    
    
   </p>
 <p>
@@ -47,3 +48,10 @@
   </p>
 
 </div>
+
+## 🚀 End-to-End Projects
+
+| Projects | Tools | Description |
+| :--- | :--- | :--- |
+| **Global Fuel Price Analysis (2020–2026)**    | Python, Tableau | Queried, cleaned, and analyzed multi-year fuel price datasets to uncover market volatility and trends, culminating in an interactive visualization dashboard. |
+|**🍫 Chocolate Stores Sales**    | Python, SQL, Tableau | Analyzed 100-chocolate-stores Sales in 7 countries, discover the orders impact of orders.   |
