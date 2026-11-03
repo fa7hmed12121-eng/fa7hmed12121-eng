@@ -60,5 +60,7 @@
 | :--- | :--- | :--- |
 | **[Finding things in the image](https://github.com/fa7hmed12121-eng/Find-countries-in-the-picture.git)** | Pandas, Turtles | thinking |
 | **[falling shapes](https://github.com/fa7hmed12121-eng/Falling-Shapes.git)** | Turtules| still thinking |
+| **[Snake Game](https://github.com/fa7hmed12121-eng/Snake-Game-.git)**| Turtles | thinking |
+|**[Ping-Pong Game](https://github.com/fa7hmed12121-eng/Ping-Pong-Game.git)** | Turtles| thinking | 
 
 
