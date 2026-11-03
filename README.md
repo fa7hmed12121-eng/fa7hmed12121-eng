@@ -53,5 +53,5 @@
 
 | Projects | Tools | Description |
 | :--- | :--- | :--- |
-| **Global Fuel Price Analysis (2020–2026)https://github.com/fa7hmed12121-eng/analyzing-fuel-prices.git**    | Python, Tableau | Queried, cleaned, and analyzed multi-year fuel price datasets to uncover market volatility and trends, culminating in an interactive visualization dashboard. |
-|**🍫 Chocolate Stores Sales[https://github.com/fa7hmed12121-eng/analyzing_chocolate_stores.git]**    | Python, SQL, Tableau | Analyzed 100-chocolate-stores Sales in 7 countries, discover the orders impact of orders.|
+| **[Global Fuel Price Analysis (2020–2026)](https://github.com/fa7hmed12121-eng/analyzing-fuel-prices.git)**    | Python, Tableau | Queried, cleaned, and analyzed multi-year fuel price datasets to uncover market volatility and trends, culminating in an interactive visualization dashboard. |
+|**[🍫 Chocolate Stores Sales](https://github.com/fa7hmed12121-eng/analyzing_chocolate_stores.git)**    | Python, SQL, Tableau | Analyzed 100-chocolate-stores Sales in 7 countries, discover the orders impact of orders.|
