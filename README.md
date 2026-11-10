@@ -66,4 +66,4 @@
 ## SQL Projects
 | Project | description |
 | :--- | :--- |
-|**[Cleaning Subscriptions data](https://github.com/fa7hmed12121-eng/Cleaning-Subscriptions-data-.git)** | Cleaning Subscriptions Data |
+|**[Cleaning Subscriptions data](https://github.com/fa7hmed12121-eng/Cleaning-Subscriptions-data-.git)** | Exploration & Cleaning Subscriptions Data that's contain very dirty values and messy , and using many MySQL functions|
